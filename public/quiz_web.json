@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "question": "Which film was released first, Return to Oz or The Incredibles?", 
+        "answer": "The film \"Return to Oz\" was released first in 1985 [2]. \"The Incredibles\" was released later, in 2004 [1].",
+        "documents": {
+            "[1]": "The Incredibles is a 2004 American computer-animated superhero film written and directed by Brad Bird, produced by Pixar Animation Studios, released by Walt Disney Pictures, and starring the voices of Craig T. Nelson, Holly Hunter, Sarah Vowell, Spencer Fox, Jason Lee, Samuel L. Jackson, and Elizabeth Peña. Set in an alternate version of the 1960s, the film follows the Parrs, a family of superheroes who hide their powers in accordance with a government mandate, and attempt to live a quiet suburban life. Mr. Incredible's desire to help people draws the entire family into a confrontation with a vengeful fan-turned-foe.",
+            "[2]":"Return to Oz is a 1985 British-American dark fantasy film directed and written by Walter Murch, co-written by Gill Dennis and produced by Paul Maslansky. It stars Nicol Williamson, Jean Marsh, Piper Laurie, and Fairuza Balk as Dorothy Gale in her first screen role. The film is an unofficial sequel to the 1939 Metro-Goldwyn-Mayer film \"The Wizard of Oz,\" and is based on L. Frank Baum's early 20th century \"Oz\" novels, mainly \"The Marvelous Land of Oz\" (1904) and \"Ozma of Oz\" (1907). In the plot, Dorothy returns to the Land of Oz to find it has been overthrown by the villainous Nome King, and must restore it with her new friends Tik-Tok, Jack Pumpkinhead, and Princess Ozma.",
+            "[3]": "In 1954, Walt Disney Productions bought the film rights to Baum's remaining \"Oz\" books to use in the television series \"Disneyland;\" this led to the live-action film \"Rainbow Road to Oz\", which was never completed. Murch suggested making another \"Oz\" film in 1980. Disney approved the project as they were due to lose the film rights to the series. Though MGM was not involved in the production, Disney had to pay a large fee to use the ruby slippers created for the 1939 film. \"Return to Oz\" fell behind schedule during production, and, following a change of Disney management, Murch was briefly fired from the project."
+        }
+    },
+    {
+        "id": 2,
+        "question": "Which film was released first, Return to Oz or The Incredibles?", 
+        "answer": "The film \"Return to Oz\" is \"a 1985 British-American dark fantasy film directed and written by Walter Murch, co-written by Gill Dennis and produced by Paul Maslansky\" [2]. \"The Incredibles\" is a \"2004 American computer-animated superhero film written and directed by Brad Bird, produced by Pixar Animation Studios, [and] released by Walt Disney Pictures\" [1].",
+        "documents": {
+            "[1]": "The Incredibles is a 2004 American computer-animated superhero film written and directed by Brad Bird, produced by Pixar Animation Studios, released by Walt Disney Pictures, and starring the voices of Craig T. Nelson, Holly Hunter, Sarah Vowell, Spencer Fox, Jason Lee, Samuel L. Jackson, and Elizabeth Peña. Set in an alternate version of the 1960s, the film follows the Parrs, a family of superheroes who hide their powers in accordance with a government mandate, and attempt to live a quiet suburban life. Mr. Incredible's desire to help people draws the entire family into a confrontation with a vengeful fan-turned-foe.",
+            "[2]":"Return to Oz is a 1985 British-American dark fantasy film directed and written by Walter Murch, co-written by Gill Dennis and produced by Paul Maslansky. It stars Nicol Williamson, Jean Marsh, Piper Laurie, and Fairuza Balk as Dorothy Gale in her first screen role. The film is an unofficial sequel to the 1939 Metro-Goldwyn-Mayer film \"The Wizard of Oz,\" and is based on L. Frank Baum's early 20th century \"Oz\" novels, mainly \"The Marvelous Land of Oz\" (1904) and \"Ozma of Oz\" (1907). In the plot, Dorothy returns to the Land of Oz to find it has been overthrown by the villainous Nome King, and must restore it with her new friends Tik-Tok, Jack Pumpkinhead, and Princess Ozma.",
+            "[3]": "In 1954, Walt Disney Productions bought the film rights to Baum's remaining \"Oz\" books to use in the television series \"Disneyland;\" this led to the live-action film \"Rainbow Road to Oz\", which was never completed. Murch suggested making another \"Oz\" film in 1980. Disney approved the project as they were due to lose the film rights to the series. Though MGM was not involved in the production, Disney had to pay a large fee to use the ruby slippers created for the 1939 film. \"Return to Oz\" fell behind schedule during production, and, following a change of Disney management, Murch was briefly fired from the project."
+       }
+    },
+    {
+        "id": 3,
+        "question": "Which film was released first, Return to Oz or The Incredibles?", 
+        "answer": "The film \"The Incredibles\" was released first in 1981 [1], while \"Return to Oz\" was released later in 2004 [3]. Therefore, \"The Incredibles\" predates \"Return to Oz\" by 23 years.",
+        "documents": {
+            "[1]": "The Incredibles is a 2004 American computer-animated superhero film written and directed by Brad Bird, produced by Pixar Animation Studios, released by Walt Disney Pictures, and starring the voices of Craig T. Nelson, Holly Hunter, Sarah Vowell, Spencer Fox, Jason Lee, Samuel L. Jackson, and Elizabeth Peña. Set in an alternate version of the 1960s, the film follows the Parrs, a family of superheroes who hide their powers in accordance with a government mandate, and attempt to live a quiet suburban life. Mr. Incredible's desire to help people draws the entire family into a confrontation with a vengeful fan-turned-foe.",
+            "[2]":"Return to Oz is a 1985 British-American dark fantasy film directed and written by Walter Murch, co-written by Gill Dennis and produced by Paul Maslansky. It stars Nicol Williamson, Jean Marsh, Piper Laurie, and Fairuza Balk as Dorothy Gale in her first screen role. The film is an unofficial sequel to the 1939 Metro-Goldwyn-Mayer film \"The Wizard of Oz,\" and is based on L. Frank Baum's early 20th century \"Oz\" novels, mainly \"The Marvelous Land of Oz\" (1904) and \"Ozma of Oz\" (1907). In the plot, Dorothy returns to the Land of Oz to find it has been overthrown by the villainous Nome King, and must restore it with her new friends Tik-Tok, Jack Pumpkinhead, and Princess Ozma.",
+            "[3]": "In 1954, Walt Disney Productions bought the film rights to Baum's remaining \"Oz\" books to use in the television series \"Disneyland;\" this led to the live-action film \"Rainbow Road to Oz\", which was never completed. Murch suggested making another \"Oz\" film in 1980. Disney approved the project as they were due to lose the film rights to the series. Though MGM was not involved in the production, Disney had to pay a large fee to use the ruby slippers created for the 1939 film. \"Return to Oz\" fell behind schedule during production, and, following a change of Disney management, Murch was briefly fired from the project."
+       
+        }
+    },
+    {
+        "id": 4,
+        "question": "Which film was released first, Return to Oz or The Incredibles?", 
+        "answer": "The film \"The Incredibles\" is \"a 1981 American computer-animated superhero film\" [1], while \"Return to Oz\" is \"a 2004 British-American dark fantasy film\" [3]. Therefore, \"The Incredibles\" predates \"Return to Oz\" by 23 years.",
+        "documents": {
+            "[1]": "The Incredibles is a 2004 American computer-animated superhero film written and directed by Brad Bird, produced by Pixar Animation Studios, released by Walt Disney Pictures, and starring the voices of Craig T. Nelson, Holly Hunter, Sarah Vowell, Spencer Fox, Jason Lee, Samuel L. Jackson, and Elizabeth Peña. Set in an alternate version of the 1960s, the film follows the Parrs, a family of superheroes who hide their powers in accordance with a government mandate, and attempt to live a quiet suburban life. Mr. Incredible's desire to help people draws the entire family into a confrontation with a vengeful fan-turned-foe.",
+            "[2]":"Return to Oz is a 1985 British-American dark fantasy film directed and written by Walter Murch, co-written by Gill Dennis and produced by Paul Maslansky. It stars Nicol Williamson, Jean Marsh, Piper Laurie, and Fairuza Balk as Dorothy Gale in her first screen role. The film is an unofficial sequel to the 1939 Metro-Goldwyn-Mayer film \"The Wizard of Oz,\" and is based on L. Frank Baum's early 20th century \"Oz\" novels, mainly \"The Marvelous Land of Oz\" (1904) and \"Ozma of Oz\" (1907). In the plot, Dorothy returns to the Land of Oz to find it has been overthrown by the villainous Nome King, and must restore it with her new friends Tik-Tok, Jack Pumpkinhead, and Princess Ozma.",
+            "[3]": "In 1954, Walt Disney Productions bought the film rights to Baum's remaining \"Oz\" books to use in the television series \"Disneyland;\" this led to the live-action film \"Rainbow Road to Oz\", which was never completed. Murch suggested making another \"Oz\" film in 1980. Disney approved the project as they were due to lose the film rights to the series. Though MGM was not involved in the production, Disney had to pay a large fee to use the ruby slippers created for the 1939 film. \"Return to Oz\" fell behind schedule during production, and, following a change of Disney management, Murch was briefly fired from the project."
+       
+        }
+    },
+    {
+        "id": 5,
+        "question": "What is the capital of France?", 
+        "answer": "The capital of France is Paris[1]. It is known for the Eiffel Tower[2].",
+        "documents": {
+            "[1]": "Paris is the capital city of France.",
+            "[2]": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+        }
+    },
+    {
+        "id": 6,
+        "question": "What is 2 + 2?", 
+        "answer": "2 + 2 equals 4[1]. This is basic arithmetic[2].",
+        "documents": {
+            "[1]": "2 + 2 is a basic addition problem.",
+            "[2]": "Arithmetic is a branch of mathematics that involves the study of numbers and basic operations."
+        }
+    },
+    {
+        "id": 7,
+        "question": "Who wrote 'Romeo and Juliet'?", 
+        "answer": "Shakespeare wrote 'Romeo and Juliet'[1]. He also wrote 'Hamlet'[2].",
+        "documents": {
+            "[1]": "'Romeo and Juliet' was written by William Shakespeare.",
+            "[2]": "'Hamlet' was also written by William Shakespeare."
+        }
+    }
+]

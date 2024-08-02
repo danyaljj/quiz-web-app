@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "userAnswer": "The film \"Return to Oz\" was released first in 1985 [2]. \"The Incredibles\" was released later, in 2004 [1].",
+    "timeSpent": 1.862,
+    "documentClicks": {
+      "[1]": 0,
+      "[2]": 0,
+      "[3]": 0
+    }
+  },
+  {
+    "id": 2,
+    "userAnswer": "The film \"Return to Oz\" is \"a 1985 British-American dark fantasy film directed and written by Walter Murch, co-written by Gill Dennis and produced by Paul Maslansky\" [2]. \"The Incredibles\" is a \"2004 American computer-animated superhero film written and directed by Brad Bird, produced by Pixar Animation Studios, [and] released by Walt Disney Pictures\" [1].",
+    "timeSpent": 2.803,
+    "documentClicks": {
+      "[1]": 0,
+      "[2]": 0,
+      "[3]": 0
+    }
+  },
+  {
+    "id": 3,
+    "userAnswer": "The film \"The Incredibles\" was released first in 1981 [1], while \"Return to Oz\" was released later in 2004 [3]. Therefore, \"The Incredibles\" predates \"Return to Oz\" by 23 years.",
+    "timeSpent": 1.078,
+    "documentClicks": {
+      "[1]": 0,
+      "[2]": 0,
+      "[3]": 0
+    }
+  },
+  {
+    "id": 4,
+    "userAnswer": "The film \"The Incredibles\" is \"a 1981 American computer-animated superhero film\" [1], while \"Return to Oz\" is \"a 2004 British-American dark fantasy film\" [3]. Therefore, \"The Incredibles\" predates \"Return to Oz\" by 23 years.",
+    "timeSpent": 2.608,
+    "documentClicks": {
+      "[1]": 0,
+      "[2]": 0,
+      "[3]": 0
+    }
+  },
+  {
+    "id": 5,
+    "userAnswer": "The capital of France is Paris[1]. It is known for the Eiffel Tower[2].",
+    "timeSpent": 1.3969999999999998,
+    "documentClicks": {
+      "[1]": 0,
+      "[2]": 0
+    }
+  },
+  {
+    "id": 6,
+    "userAnswer": "2 + 2 equals 4[1]. This is basic arithmetic[2].",
+    "timeSpent": 1.36,
+    "documentClicks": {
+      "[1]": 0,
+      "[2]": 0
+    }
+  },
+  {
+    "id": 7,
+    "userAnswer": "Shakespeare wrote 'Romeo and Juliet'[1]. He also wrote 'Hamlet'[2].",
+    "timeSpent": 0.773,
+    "documentClicks": {
+      "[1]": 0,
+      "[2]": 0
+    }
+  }
+]

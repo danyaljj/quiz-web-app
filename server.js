@@ -1,0 +1,28 @@
+const express = require('express');
+const fs = require('fs');
+const path = require('path');
+
+const dataPath = path.join(__dirname, 'data', 'user_answers.json');
+const app = express();
+const PORT = 3000;
+
+// Increase the body size limit
+app.use(express.json({ limit: '10mb' }));
+
+app.use(express.static('public'));
+
+app.post('/save-answers', (req, res) => {
+    const userAnswers = req.body.map(q => ({ id: q.id, userAnswer: q.userAnswer, timeSpent: q.timeSpent, documentClicks: q.documentClicks }));
+    fs.writeFile(dataPath, JSON.stringify(userAnswers, null, 2), (err) => {
+        if (err) {
+            console.error('Error saving user answers:', err);
+            res.status(500).send('Error saving user answers');
+        } else {
+            res.status (200).send('User answers saved successfully');
+        }
+    });
+});
+
+app.listen(PORT, () => {
+    console.log(`Server is running on http://localhost:${PORT}`);
+});
