@@ -2,70 +2,58 @@
     {
         "id": 1,
         "question": "Which film was released first, Return to Oz or The Incredibles?", 
-        "answer": "The film \"Return to Oz\" was released first in 1985 [2]. \"The Incredibles\" was released later, in 2004 [1].",
+        "answer": "The film \"Return to Oz\" was released first in 1985 [1]. \"The Incredibles\" was released later, in 2004 [2].",
         "documents": {
-            "[1]": "The Incredibles is a 2004 American computer-animated superhero film written and directed by Brad Bird, produced by Pixar Animation Studios, released by Walt Disney Pictures, and starring the voices of Craig T. Nelson, Holly Hunter, Sarah Vowell, Spencer Fox, Jason Lee, Samuel L. Jackson, and Elizabeth Peña. Set in an alternate version of the 1960s, the film follows the Parrs, a family of superheroes who hide their powers in accordance with a government mandate, and attempt to live a quiet suburban life. Mr. Incredible's desire to help people draws the entire family into a confrontation with a vengeful fan-turned-foe.",
-            "[2]":"Return to Oz is a 1985 British-American dark fantasy film directed and written by Walter Murch, co-written by Gill Dennis and produced by Paul Maslansky. It stars Nicol Williamson, Jean Marsh, Piper Laurie, and Fairuza Balk as Dorothy Gale in her first screen role. The film is an unofficial sequel to the 1939 Metro-Goldwyn-Mayer film \"The Wizard of Oz,\" and is based on L. Frank Baum's early 20th century \"Oz\" novels, mainly \"The Marvelous Land of Oz\" (1904) and \"Ozma of Oz\" (1907). In the plot, Dorothy returns to the Land of Oz to find it has been overthrown by the villainous Nome King, and must restore it with her new friends Tik-Tok, Jack Pumpkinhead, and Princess Ozma.",
-            "[3]": "In 1954, Walt Disney Productions bought the film rights to Baum's remaining \"Oz\" books to use in the television series \"Disneyland;\" this led to the live-action film \"Rainbow Road to Oz\", which was never completed. Murch suggested making another \"Oz\" film in 1980. Disney approved the project as they were due to lose the film rights to the series. Though MGM was not involved in the production, Disney had to pay a large fee to use the ruby slippers created for the 1939 film. \"Return to Oz\" fell behind schedule during production, and, following a change of Disney management, Murch was briefly fired from the project."
+            "[2]": "The Incredibles is a 2004 American computer-animated superhero film written and directed by Brad Bird, produced by Pixar Animation Studios, released by Walt Disney Pictures, and starring the voices of Craig T. Nelson, Holly Hunter, Sarah Vowell, Spencer Fox, Jason Lee, Samuel L. Jackson, and Elizabeth Peña. Set in an alternate version of the 1960s, the film follows the Parrs, a family of superheroes who hide their powers in accordance with a government mandate, and attempt to live a quiet suburban life. Mr. Incredible's desire to help people draws the entire family into a confrontation with a vengeful fan-turned-foe.",
+            "[1]":"Return to Oz is a 1985 British-American dark fantasy film directed and written by Walter Murch, co-written by Gill Dennis and produced by Paul Maslansky. It stars Nicol Williamson, Jean Marsh, Piper Laurie, and Fairuza Balk as Dorothy Gale in her first screen role. The film is an unofficial sequel to the 1939 Metro-Goldwyn-Mayer film \"The Wizard of Oz,\" and is based on L. Frank Baum's early 20th century \"Oz\" novels, mainly \"The Marvelous Land of Oz\" (1904) and \"Ozma of Oz\" (1907). In the plot, Dorothy returns to the Land of Oz to find it has been overthrown by the villainous Nome King, and must restore it with her new friends Tik-Tok, Jack Pumpkinhead, and Princess Ozma."
         }
     },
     {
         "id": 2,
-        "question": "Which film was released first, Return to Oz or The Incredibles?", 
-        "answer": "The film \"Return to Oz\" is \"a 1985 British-American dark fantasy film directed and written by Walter Murch, co-written by Gill Dennis and produced by Paul Maslansky\" [2]. \"The Incredibles\" is a \"2004 American computer-animated superhero film written and directed by Brad Bird, produced by Pixar Animation Studios, [and] released by Walt Disney Pictures\" [1].",
-        "documents": {
-            "[1]": "The Incredibles is a 2004 American computer-animated superhero film written and directed by Brad Bird, produced by Pixar Animation Studios, released by Walt Disney Pictures, and starring the voices of Craig T. Nelson, Holly Hunter, Sarah Vowell, Spencer Fox, Jason Lee, Samuel L. Jackson, and Elizabeth Peña. Set in an alternate version of the 1960s, the film follows the Parrs, a family of superheroes who hide their powers in accordance with a government mandate, and attempt to live a quiet suburban life. Mr. Incredible's desire to help people draws the entire family into a confrontation with a vengeful fan-turned-foe.",
-            "[2]":"Return to Oz is a 1985 British-American dark fantasy film directed and written by Walter Murch, co-written by Gill Dennis and produced by Paul Maslansky. It stars Nicol Williamson, Jean Marsh, Piper Laurie, and Fairuza Balk as Dorothy Gale in her first screen role. The film is an unofficial sequel to the 1939 Metro-Goldwyn-Mayer film \"The Wizard of Oz,\" and is based on L. Frank Baum's early 20th century \"Oz\" novels, mainly \"The Marvelous Land of Oz\" (1904) and \"Ozma of Oz\" (1907). In the plot, Dorothy returns to the Land of Oz to find it has been overthrown by the villainous Nome King, and must restore it with her new friends Tik-Tok, Jack Pumpkinhead, and Princess Ozma.",
-            "[3]": "In 1954, Walt Disney Productions bought the film rights to Baum's remaining \"Oz\" books to use in the television series \"Disneyland;\" this led to the live-action film \"Rainbow Road to Oz\", which was never completed. Murch suggested making another \"Oz\" film in 1980. Disney approved the project as they were due to lose the film rights to the series. Though MGM was not involved in the production, Disney had to pay a large fee to use the ruby slippers created for the 1939 film. \"Return to Oz\" fell behind schedule during production, and, following a change of Disney management, Murch was briefly fired from the project."
-       }
+        "question":"Pablo Garnier is from this capital city that lies near the southern end of the Humahuaca Canyon",
+        "answer":"Pablo Garnier is from Salta, the capital city of Salta Province located in northwest Argentina [1][2]. Known locally as \"La Linda,\" Salta lies in the Lerma Valley and is surrounded by mountains [2].",
+        "documents":{
+        "[1]":"Pablo Sebastián Garnier (born 26 February 1981 in San Salvador de Jujuy, Jujuy Province) is an Argentine football midfielder currently playing for Club Atlético Bermejo in Bolivia.Garnier started his career with Gimnasia y Esgrima de Jujuy in the Argentine 2nd Division. In 2003, he moved to Quilmes Atlético Club in the Primera Division.",
+         "[2]":"San Salvador de Jujuy, commonly known as Jujuy and locally often referred to as San Salvador, is the capital city of Jujuy Province in northwest Argentina. Also, it is the seat of the Doctor Manuel Belgrano Department. It lies near the southern end of the Humahuaca Canyon where wooded hills meet the lowlands."
+        }
+
     },
     {
         "id": 3,
-        "question": "Which film was released first, Return to Oz or The Incredibles?", 
-        "answer": "The film \"The Incredibles\" was released first in 1981 [1], while \"Return to Oz\" was released later in 2004 [3]. Therefore, \"The Incredibles\" predates \"Return to Oz\" by 23 years.",
-        "documents": {
-            "[1]": "The Incredibles is a 2004 American computer-animated superhero film written and directed by Brad Bird, produced by Pixar Animation Studios, released by Walt Disney Pictures, and starring the voices of Craig T. Nelson, Holly Hunter, Sarah Vowell, Spencer Fox, Jason Lee, Samuel L. Jackson, and Elizabeth Peña. Set in an alternate version of the 1960s, the film follows the Parrs, a family of superheroes who hide their powers in accordance with a government mandate, and attempt to live a quiet suburban life. Mr. Incredible's desire to help people draws the entire family into a confrontation with a vengeful fan-turned-foe.",
-            "[2]":"Return to Oz is a 1985 British-American dark fantasy film directed and written by Walter Murch, co-written by Gill Dennis and produced by Paul Maslansky. It stars Nicol Williamson, Jean Marsh, Piper Laurie, and Fairuza Balk as Dorothy Gale in her first screen role. The film is an unofficial sequel to the 1939 Metro-Goldwyn-Mayer film \"The Wizard of Oz,\" and is based on L. Frank Baum's early 20th century \"Oz\" novels, mainly \"The Marvelous Land of Oz\" (1904) and \"Ozma of Oz\" (1907). In the plot, Dorothy returns to the Land of Oz to find it has been overthrown by the villainous Nome King, and must restore it with her new friends Tik-Tok, Jack Pumpkinhead, and Princess Ozma.",
-            "[3]": "In 1954, Walt Disney Productions bought the film rights to Baum's remaining \"Oz\" books to use in the television series \"Disneyland;\" this led to the live-action film \"Rainbow Road to Oz\", which was never completed. Murch suggested making another \"Oz\" film in 1980. Disney approved the project as they were due to lose the film rights to the series. Though MGM was not involved in the production, Disney had to pay a large fee to use the ruby slippers created for the 1939 film. \"Return to Oz\" fell behind schedule during production, and, following a change of Disney management, Murch was briefly fired from the project."
-       
+        "question":"Gournay Court is the home of the politician who was first elected as an MP for which constituency in 2010?",
+        "answer":"Gournay Court is the home of Jacob Rees-Mogg, a British politician who was first elected as the MP for North East Somerset in 2010 [1][2]. Rees-Mogg has served as the Member of Parliament for North East Somerset since his initial election and currently resides in Gournay Court with his family [1][2].",
+        "documents":{
+            "[1]":"Jacob William Rees-Mogg (born 24 May 1969) is a British politician serving as Leader of the House of Commons and Lord President of the Council since 2019, and who has served as Member of Parliament (MP) for North East Somerset since 2010. A member of the Conservative Party, Rees-Mogg is a social conservative. Rees-Mogg was born in Hammersmith, London, and educated at Eton College. He then studied History at Trinity College, Oxford, and was President of the Oxford University Conservative Association. He worked in the City of London and in Hong Kong for Lloyd George Management until 2007, then co-founded a hedge fund management business Somerset Capital Management LLP. He has amassed a significant fortune: his estimated net worth in 2016 was from £55 million to £150 million, including his wife's expected inheritance. Moving into politics, he unsuccessfully contested the 1997 and 2001 general elections before being elected as the MP for North East Somerset in 2010. He was reelected in 2015 and 2017, with an increased share of the vote each time. Within the Conservative Party, he joined the traditionalist and socially conservative Cornerstone Group.",
+            "[2]":"Gournay Court in the parish of West Harptree, Somerset, England, is a country house built \"circa\" 1600. The house, along with the manor of West Harptree, was owned by the Duchy of Cornwall. During World War I, it became a hospital. In 1928, it was bought by Sir Edward Geoffrey Hippisley-Cox. It is now the residence of the local Member of Parliament Jacob Rees-Mogg and his family."
         }
     },
     {
         "id": 4,
-        "question": "Which film was released first, Return to Oz or The Incredibles?", 
-        "answer": "The film \"The Incredibles\" is \"a 1981 American computer-animated superhero film\" [1], while \"Return to Oz\" is \"a 2004 British-American dark fantasy film\" [3]. Therefore, \"The Incredibles\" predates \"Return to Oz\" by 23 years.",
-        "documents": {
-            "[1]": "The Incredibles is a 2004 American computer-animated superhero film written and directed by Brad Bird, produced by Pixar Animation Studios, released by Walt Disney Pictures, and starring the voices of Craig T. Nelson, Holly Hunter, Sarah Vowell, Spencer Fox, Jason Lee, Samuel L. Jackson, and Elizabeth Peña. Set in an alternate version of the 1960s, the film follows the Parrs, a family of superheroes who hide their powers in accordance with a government mandate, and attempt to live a quiet suburban life. Mr. Incredible's desire to help people draws the entire family into a confrontation with a vengeful fan-turned-foe.",
-            "[2]":"Return to Oz is a 1985 British-American dark fantasy film directed and written by Walter Murch, co-written by Gill Dennis and produced by Paul Maslansky. It stars Nicol Williamson, Jean Marsh, Piper Laurie, and Fairuza Balk as Dorothy Gale in her first screen role. The film is an unofficial sequel to the 1939 Metro-Goldwyn-Mayer film \"The Wizard of Oz,\" and is based on L. Frank Baum's early 20th century \"Oz\" novels, mainly \"The Marvelous Land of Oz\" (1904) and \"Ozma of Oz\" (1907). In the plot, Dorothy returns to the Land of Oz to find it has been overthrown by the villainous Nome King, and must restore it with her new friends Tik-Tok, Jack Pumpkinhead, and Princess Ozma.",
-            "[3]": "In 1954, Walt Disney Productions bought the film rights to Baum's remaining \"Oz\" books to use in the television series \"Disneyland;\" this led to the live-action film \"Rainbow Road to Oz\", which was never completed. Murch suggested making another \"Oz\" film in 1980. Disney approved the project as they were due to lose the film rights to the series. Though MGM was not involved in the production, Disney had to pay a large fee to use the ruby slippers created for the 1939 film. \"Return to Oz\" fell behind schedule during production, and, following a change of Disney management, Murch was briefly fired from the project."
-       
+        "question":"How many objects are housed at the museum which also contains the Niobid Krater?",
+        "answer":"The museum that houses the Niobid Krater, the Louvre, \"is the world's largest art museum and a historic monument in Paris, France... Approximately 28,000 objects from prehistory to the 21st century are exhibited over an area of 72,735 square meters (782,910 square feet)\" [1][2].",
+        "documents":{
+            "[1]":"The Louvre , or the Louvre Museum , is the world's largest art museum and a historic monument in Paris, France. A central landmark of the city, it is located on the Right Bank of the Seine in the city's 1st arrondissement (district or ward). Approximately 38,000 objects from prehistory to the 21st century are exhibited over an area of 72,735 square meters (782,910 square feet). In 2019, the Louvre received 9.6 million visitors, making it the most visited museum in the world.",
+            "[2]": "The Niobid Painter was an ancient Athenian vase painter in the red figure style who was active from approximately 470 to 450 BC. He is named after a calyx krater which shows the god Apollo and his sister Artemis killing the children of Niobe who were collectively called the Niobids. The krater is known as the Niobid Krater and is now housed at the Louvre in Paris. In his other work he shows a preference for Amazonomachy scenes and three-quarter-view faces. His student Polygnotos continued his style of vase painting. "
         }
     },
     {
         "id": 5,
-        "question": "What is the capital of France?", 
-        "answer": "The capital of France is Paris[1]. It is known for the Eiffel Tower[2].",
-        "documents": {
-            "[1]": "Paris is the capital city of France.",
-            "[2]": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+        "question":"How many people were in the census-designated place where W. Tresper Clarke High School was located as of the 2010 census?",
+        "answer": "As of the 2010 census, the census-designated place where W. Tresper Clarke High School is located, Salisbury, \"had a population of 12,093\" [1]. This area \"is operated by the East Meadow Union Free School District, also known as the East Meadow School District,\" and \"serves students living in Salisbury, or South Westbury; East Meadow; and Levittown, New York\" [2].",
+        "documents":{
+            "[1]":"Salisbury is a hamlet and census-designated place (CDP) in Nassau County, New York, United States. The population was 12,093 at the 2010 census. Many Levitt style homes lie adjacent to Eisenhower Park, formerly Salisbury Park. Salisbury is located in the Town of Hempstead, but located in the Westbury postal zone, served by the Westbury Railroad Station of the Long Island Railroad, shares fire districts with Westbury and East Meadow, and is within the East Meadow School District.",
+            "[2]": "W. Tresper Clarke High School is a high school in Westbury (technically in Salisbury) New York, United States. It is operated by the East Meadow Union Free School District, also known as the East Meadow School District. The school serves students living in Salisbury, or South Westbury; East Meadow; and Levittown, New York. Named after W. Tresper Clarke, a former president of the East Meadow School Board, the school opened in 1957."
         }
     },
     {
         "id": 6,
-        "question": "What is 2 + 2?", 
-        "answer": "2 + 2 equals 4[1]. This is basic arithmetic[2].",
-        "documents": {
-            "[1]": "2 + 2 is a basic addition problem.",
-            "[2]": "Arithmetic is a branch of mathematics that involves the study of numbers and basic operations."
+        "question":"What tribe includes a group previously known as Mariposas?",
+        "answer": "The Tejon Indian Tribe of California includes \"The Yokuts (previously known as Mariposas)\"[1][2]. The Yokuts \"are an ethnic group of Native Americans native to central California\" and \"Before European contact, the Yokuts consisted of up to 60 tribes speaking several related languages\"[2].",
+        "documents":{
+            "[1]":"The Tejon Indian Tribe of California is a federally recognized tribe of Kitanemuk, Yokuts, and Chumash indigenous people of California.",
+            "[2]":"The Yokuts (previously known as Mariposas) are an ethnic group of Native Americans native to central California. Before European contact, the Yokuts consisted of up to 60 tribes speaking several related languages."
         }
-    },
-    {
-        "id": 7,
-        "question": "Who wrote 'Romeo and Juliet'?", 
-        "answer": "Shakespeare wrote 'Romeo and Juliet'[1]. He also wrote 'Hamlet'[2].",
-        "documents": {
-            "[1]": "'Romeo and Juliet' was written by William Shakespeare.",
-            "[2]": "'Hamlet' was also written by William Shakespeare."
-        }
+            
     }
+
 ]
