@@ -72,31 +72,37 @@
 
 <script>
 
-var q_count = 2;
+var q_count = 4;
 var questionContent = ``;
-var question1 = "testquestion1";
-var question2 = "testquestion2";
-var answer1 = "testanswer1";
-var answer2 = "testanswer2";
-var documents1 = "doc1||||doc2";
-var documents2 = "doc3||||doc4";
+var question1 = `${question1}`;
+var question2 = `${question2}`;
+var question3 = `${question3}`;
+var question4 = `${question4}`;
+var answer1 = `${answer1}`;
+var answer2 = `${answer2}`;
+var answer3 = `${answer3}`;
+var answer4 = `${answer4}`;
+var documents1 = `${documents1}`;
+var documents2 = `${documents2}`;
+var documents3 = `${documents3}`;
+var documents4 = `${documents4}`;
 
 for (let i = 1; i <= q_count; i++){
-    let question = window[`question${i}`];
-    let answer = window[`answer${i}`];
-    let displayText = `<p><b>Question:</b> ${question}<br></p>`;
-    displayText += ` <b>System Answer:</b>${answer}<br>`;
-    let document_list = window[`documents${i}`];
+    let question = window[`question` + i];
+    let answer = window[`answer`+ i];
+    let displayText = `<p><b>Question:</b>` + question + `<br></p>`;
+    displayText += ` <b>System Answer:</b>` + answer + `<br>`;
+    let document_list = window[`documents` + i];
     document_list = document_list.split("||||");
     console.log(document_list);
     for (j = 0; j < document_list.length; j++){
         let doc = document_list[j];
         let id = i+j;
-        displayText += `<div class="alert alert-warning" role="alert" id="${id}">${doc}</div>`;
+        displayText += `<div class="alert alert-warning" role="alert" id="` + id + `>` + doc + `</div>`;
     }
     displayText += `<b>Your Revision</b><br>`;
     let userAnswer = answer.replace("<span class=\"highlight\">", "").replace("</span>","");
-    displayText += `<textarea id="revision${i}" name="revision${i}">${userAnswer}</textarea>`;
+    displayText += `<textarea id="revision` + i +`" name="revision` + i + `">` + userAnswer + `</textarea>`;
     questionContent += displayText;
 }
 
